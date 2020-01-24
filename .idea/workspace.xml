@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd1e1e31-c1af-49ef-a1e6-612e4f9bc306" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmCJGn2Hl3SEeHFEIR4eWFVWRV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Google/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.11612176" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop\myframework\Google\src\test\resources" />
+      <recent name="C:\Users\firoz_000\Desktop\myframework\Google\src\main\resources" />
+      <recent name="C:\Users\firoz_000\Desktop\myframework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GooglelTest.goSettingsPage">
+    <configuration name="GooglelTest.goAboutPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleltest" />
+      <option name="MAIN_CLASS_NAME" value="googleltest.GooglelTest" />
+      <option name="METHOD_NAME" value="goAboutPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglelTest.goFeelingLuckyPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleltest" />
+      <option name="MAIN_CLASS_NAME" value="googleltest.GooglelTest" />
+      <option name="METHOD_NAME" value="goFeelingLuckyPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglelTest.goSettingsPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleltest" />
+      <option name="MAIN_CLASS_NAME" value="googleltest.GooglelTest" />
+      <option name="METHOD_NAME" value="goSettingsPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglelTest.goYoutubePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleltest" />
+      <option name="MAIN_CLASS_NAME" value="googleltest.GooglelTest" />
+      <option name="METHOD_NAME" value="goYoutubePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglelTest.searchandClickfirstlink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Google" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleltest" />
+      <option name="MAIN_CLASS_NAME" value="googleltest.GooglelTest" />
+      <option name="METHOD_NAME" value="searchandClickfirstlink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GooglelTest.goSettingsPage" />
+        <item itemvalue="TestNG.GooglelTest.goFeelingLuckyPage" />
+        <item itemvalue="TestNG.GooglelTest.goYoutubePage" />
+        <item itemvalue="TestNG.GooglelTest.goAboutPage" />
+        <item itemvalue="TestNG.GooglelTest.searchandClickfirstlink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd1e1e31-c1af-49ef-a1e6-612e4f9bc306" name="Default Changelist" comment="" />
+      <created>1579745309534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579745309534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1579749677006">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579749677006" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579830588026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1579830588026" />
+    <state width="1322" height="165" key="GridCell.Tab.0.bottom" timestamp="1579835875656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579835875656" />
+    <state width="1322" height="165" key="GridCell.Tab.0.center" timestamp="1579835875656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579835875656" />
+    <state width="1322" height="165" key="GridCell.Tab.0.left" timestamp="1579835875656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579835875656" />
+    <state width="1322" height="165" key="GridCell.Tab.0.right" timestamp="1579835875656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579835875656" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1579746383732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579746383732" />
+    <state x="341" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579750268306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1579750268306" />
+    <state x="131" y="58" key="new project wizard" timestamp="1579746544659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="58" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579746544659" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579832871061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579832871061" />
+  </component>
+</project>
