@@ -15,6 +15,7 @@
         <module>Facebook</module>
         <module>Facebook</module>
         <module>Google</module>
+        <module>Amazon</module>
     </modules>
 
     <dependencyManagement>

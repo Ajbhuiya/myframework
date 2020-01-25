@@ -9,6 +9,7 @@
         <module name="Generic" />
         <module name="Facebook" />
         <module name="Google" />
+        <module name="Amazon" />
       </profile>
     </annotationProcessing>
   </component>
